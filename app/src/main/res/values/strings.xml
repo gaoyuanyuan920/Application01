@@ -1,0 +1,8 @@
+<resources>
+    <resources>
+        <string name="app_name">" Application01"</string>
+        <string name="ok">confirm</string>
+        <string name="hello">\"hello word\"</string>
+        <string name="sms">尊敬的%2$s,您当前的话费是%1$d元</string>
+    </resources>
+</resources>
